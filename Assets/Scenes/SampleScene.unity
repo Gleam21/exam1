@@ -933,8 +933,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2b42330aac219fe419865b890297c574, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spped: 1.5
-  startPosition: -2.5
+  spped: 5
+  startPosition: 8
   endPosition: -4
 --- !u!212 &554497857
 SpriteRenderer:
