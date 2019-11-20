@@ -143,8 +143,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spped: 3
-  startPosition: 0.7
-  endPosition: -0.8
+  startPosition: 6
+  endPosition: -2
 --- !u!212 &58077951
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2118,8 +2118,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spped: 2
-  startPosition: 3.9
-  endPosition: 2.4
+  startPosition: 6
+  endPosition: -3
 --- !u!212 &2020300971
 SpriteRenderer:
   m_ObjectHideFlags: 0
